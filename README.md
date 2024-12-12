@@ -198,5 +198,5 @@ Pull requests (PRs) are a mechanism to propose and review changes before merging
 - Conduct code reviews before merging.
 - Document processes in the README or a CONTRIBUTING file.
 
-By following these practices, you can ensure smoother collaboration and better version control using GitHub.
+
 
